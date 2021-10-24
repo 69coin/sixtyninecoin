@@ -76,7 +76,7 @@ Installing the dependencies using MacPorts is very straightforward.
 
 1. Clone the github tree to get the source code and go into the directory.
 
-        git clone git@github.com:sixtyninecoin-project/sixtyninecoin.git sixtyninecoin
+        git clone git@github.com:69coin/sixtyninecoin.git sixtyninecoin
         cd sixtyninecoin
 
 2.  Build sixtyninecoind:
@@ -111,7 +111,7 @@ Rerunning "openssl version" should now return the correct version.
 
 1. Clone the github tree to get the source code and go into the directory.
 
-        git clone https://github.com/sixtyninecoin-project/sixtyninecoin.git
+        git clone https://github.com/69coin/sixtyninecoin.git
         cd sixtyninecoin
 
 2.  Modify source in order to pick up the `openssl` library.
