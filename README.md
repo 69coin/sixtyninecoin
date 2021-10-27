@@ -11,7 +11,7 @@ What is 69coin?
 
 69coin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 5 minute block targets
- - subsidy halves in 10k blocks (~35 years)
+ - subsidy halves in 10k blocks (~35 days)
  - ~1.4 B total coins
 
 License
